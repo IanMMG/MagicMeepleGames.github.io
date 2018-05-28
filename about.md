@@ -18,7 +18,7 @@ and
 - _**Be Entertaining**_
 - _**Be Intellectually Stimulating**_
 
-Mission statements can be useful, but are very thin and can be shallow. We prefer to build our company and grow based on a few simple principles...
+Mission statements can be useful, but are very thin and usually vague. We prefer to build our company and grow based on a few simple principles...
 
 **Respect**
 _“Be silly, be honest, be kind.”_– _Ralph Waldo Emerson._  
