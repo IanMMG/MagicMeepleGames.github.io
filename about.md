@@ -3,7 +3,7 @@ title: About Us
 layout: default
 category: pages
 order: 2
-published: true
+published: false
 ---
 # Magic Meeple...the Boardgame People!
 **Magic Meeple Games, LLC.** is an independent tabletop games design, development, & publishing company based in Phoenix, Arizona. Officially formed in 2015, MMG was co-founded and currently co-owned by husband/wife team Ian Stedman and Trish Stedman who have over 20 years of combined involvement in various games industries.
